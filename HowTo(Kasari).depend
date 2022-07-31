@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1438484995 source:d:\how to\1stsem_project\howto\howto(kasari)\main_howto.cpp
+	"game.h"
+	"crimp/crimp.h"
+	"make_tea/make_tea.h"
+	"setup_computer/Header.h"
+
+1438107167 d:\how to\1stsem_project\howto\howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438479084 source:d:\how to\1stsem_project\howto\howto(kasari)\load.cpp
+	"game.h"
+
+1438479080 source:d:\how to\1stsem_project\howto\howto(kasari)\render.cpp
+	"game.h"
+
+1438487142 source:d:\how to\1stsem_project\howto\howto(kasari)\events.cpp
+	"game.h"
+
+1438479030 source:d:\how to\1stsem_project\howto\howto(kasari)\update.cpp
+	"game.h"
+
+1438479079 source:d:\how to\1stsem_project\howto\howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1438479085 source:d:\how to\1stsem_project\howto\howto(kasari)\free_resources.cpp
+	"game.h"
+
+1437028608 source:d:\how to\1stsem_project\howto\howto(kasari)\tea.cpp
+	"game.h"
+
+1437027205 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\events.cpp
+	"game.h"
+
+1437028617 \\apricot\how to\1stsem_project\howto\howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1436972567 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\free_resources.cpp
+	"game.h"
+
+1436981904 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\load.cpp
+	"game.h"
+
+1437029129 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\main_howto.cpp
+	"game.h"
+
+1436840056 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\render.cpp
+	"game.h"
+
+1436875173 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1437028606 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\tea.cpp
+	"game.h"
+
+1436614008 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\update.cpp
+	"game.h"
+
+1437575538 source:d:\how to\1stsem_project\howto\howto(kasari)\options.cpp
+	"game.h"
+
+1438472207 d:\how to\1stsem_project\howto\howto(kasari)\crimp\crimp.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<SDL_mixer.h>
+
+1437973889 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\colorcode.cpp
+	"crimp.h"
+
+1438461967 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\crimp_main.cpp
+	"crimp.h"
+
+1438477366 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\events_crimp.cpp
+	"crimp.h"
+
+1438460397 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\load_media.cpp
+	"crimp.h"
+
+1437638728 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\render_media.cpp
+	"crimp.h"
+
+1437638064 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\update.cpp
+	"crimp.h"
+
+1437973889 source:d:\how to\1stsem_project\howto\howto(kasari)\colorcode.cpp
+	"crimp.h"
+
+1437987593 d:\how to\1stsem_project\howto\howto(kasari)\crimp.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<SDL_mixer.h>
+
+1437993572 source:d:\how to\1stsem_project\howto\howto(kasari)\events_crimp.cpp
+	"crimp.h"
+	"game.h"
+
+1437627332 source:d:\how to\1stsem_project\howto\howto(kasari)\load_media.cpp
+	"crimp.h"
+
+1437638728 source:d:\how to\1stsem_project\howto\howto(kasari)\render_media.cpp
+	"crimp.h"
+
+1438450347 d:\how to\1stsem_project\howto\howto(kasari)\make_tea\make_tea.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438451412 source:d:\how to\1stsem_project\howto\howto(kasari)\make_tea\drag_drop.cpp
+	"make_tea.h"
+
+1437629129 source:d:\how to\1stsem_project\howto\howto(kasari)\make_tea\image_load.cpp
+	"make_tea.h"
+
+1437551026 source:d:\how to\1stsem_project\howto\howto(kasari)\make_tea\render_img.cpp
+	"make_tea.h"
+
+1437644913 source:d:\how to\1stsem_project\howto\howto(kasari)\make_tea\test.cpp
+
+1437629593 source:d:\how to\1stsem_project\howto\howto(kasari)\make_tea\update.cpp
+	"make_tea.h"
+
+1438482377 d:\how to\1stsem_project\howto\howto(kasari)\setup_computer\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438487419 source:d:\how to\1stsem_project\howto\howto(kasari)\setup_computer\dragdrop.cpp
+	"Header.h"
+
+1438476894 source:d:\how to\1stsem_project\howto\howto(kasari)\setup_computer\load_texture.cpp
+	"Header.h"
+
+1438475994 source:d:\how to\1stsem_project\howto\howto(kasari)\setup_computer\render.cpp
+	"Header.h"
+
+1438468208 source:d:\how to\1stsem_project\howto\howto(kasari)\setup_computer\update.cpp
+	"Header.h"
+
+1438473227 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\final_crimp.cpp
+	"crimp.h"
+
+1438442849 source:d:\how to\1stsem_project\howto\howto(kasari)\crimp\wire_sorting.cpp
+	"crimp.h"
+
+1437973889 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\colorcode.cpp
+	"crimp.h"
+
+1438472207 c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\crimp.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<SDL_mixer.h>
+
+1438477366 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\events_crimp.cpp
+	"crimp.h"
+
+1438473227 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\final_crimp.cpp
+	"crimp.h"
+
+1438460397 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\load_media.cpp
+	"crimp.h"
+
+1437638728 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\render_media.cpp
+	"crimp.h"
+
+1437638064 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\update.cpp
+	"crimp.h"
+
+1438442849 source:c:\users\ishan dongol\desktop\finale howto(kasari)\crimp\wire_sorting.cpp
+	"crimp.h"
+
+1438487142 source:c:\users\ishan dongol\desktop\finale howto(kasari)\events.cpp
+	"game.h"
+
+1438107167 c:\users\ishan dongol\desktop\finale howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438479085 source:c:\users\ishan dongol\desktop\finale howto(kasari)\free_resources.cpp
+	"game.h"
+
+1438479084 source:c:\users\ishan dongol\desktop\finale howto(kasari)\load.cpp
+	"game.h"
+
+1438488093 source:c:\users\ishan dongol\desktop\finale howto(kasari)\main_howto.cpp
+	"game.h"
+	"crimp/crimp.h"
+	"make_tea/make_tea.h"
+	"setup_computer/Header.h"
+
+1438450347 c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\make_tea.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438482377 c:\users\ishan dongol\desktop\finale howto(kasari)\setup_computer\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438451412 source:c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\drag_drop.cpp
+	"make_tea.h"
+
+1437629129 source:c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\image_load.cpp
+	"make_tea.h"
+
+1437551026 source:c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\render_img.cpp
+	"make_tea.h"
+
+1437644913 source:c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\test.cpp
+
+1437629593 source:c:\users\ishan dongol\desktop\finale howto(kasari)\make_tea\update.cpp
+	"make_tea.h"
+
+1437575538 source:c:\users\ishan dongol\desktop\finale howto(kasari)\options.cpp
+	"game.h"
+
+1438479080 source:c:\users\ishan dongol\desktop\finale howto(kasari)\render.cpp
+	"game.h"
+
+1438487419 source:c:\users\ishan dongol\desktop\finale howto(kasari)\setup_computer\dragdrop.cpp
+	"Header.h"
+
+1438476894 source:c:\users\ishan dongol\desktop\finale howto(kasari)\setup_computer\load_texture.cpp
+	"Header.h"
+
+1438475994 source:c:\users\ishan dongol\desktop\finale howto(kasari)\setup_computer\render.cpp
+	"Header.h"
+
+1438468208 source:c:\users\ishan dongol\desktop\finale howto(kasari)\setup_computer\update.cpp
+	"Header.h"
+
+1438479079 source:c:\users\ishan dongol\desktop\finale howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1437028608 source:c:\users\ishan dongol\desktop\finale howto(kasari)\tea.cpp
+	"game.h"
+
+1438479030 source:c:\users\ishan dongol\desktop\finale howto(kasari)\update.cpp
+	"game.h"
+
+1437973889 source:d:\desktop\finale howto(kasari)\crimp\colorcode.cpp
+	"crimp.h"
+
+1438472207 d:\desktop\finale howto(kasari)\crimp\crimp.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<SDL_mixer.h>
+
+1438477366 source:d:\desktop\finale howto(kasari)\crimp\events_crimp.cpp
+	"crimp.h"
+
+1438473227 source:d:\desktop\finale howto(kasari)\crimp\final_crimp.cpp
+	"crimp.h"
+
+1438460397 source:d:\desktop\finale howto(kasari)\crimp\load_media.cpp
+	"crimp.h"
+
+1437638728 source:d:\desktop\finale howto(kasari)\crimp\render_media.cpp
+	"crimp.h"
+
+1437638064 source:d:\desktop\finale howto(kasari)\crimp\update.cpp
+	"crimp.h"
+
+1438442849 source:d:\desktop\finale howto(kasari)\crimp\wire_sorting.cpp
+	"crimp.h"
+
+1438487142 source:d:\desktop\finale howto(kasari)\events.cpp
+	"game.h"
+
+1438107167 d:\desktop\finale howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438479085 source:d:\desktop\finale howto(kasari)\free_resources.cpp
+	"game.h"
+
+1438479084 source:d:\desktop\finale howto(kasari)\load.cpp
+	"game.h"
+
+1438488093 source:d:\desktop\finale howto(kasari)\main_howto.cpp
+	"game.h"
+	"crimp/crimp.h"
+	"make_tea/make_tea.h"
+	"setup_computer/Header.h"
+
+1438450347 d:\desktop\finale howto(kasari)\make_tea\make_tea.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438482377 d:\desktop\finale howto(kasari)\setup_computer\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438451412 source:d:\desktop\finale howto(kasari)\make_tea\drag_drop.cpp
+	"make_tea.h"
+
+1437629129 source:d:\desktop\finale howto(kasari)\make_tea\image_load.cpp
+	"make_tea.h"
+
+1437551026 source:d:\desktop\finale howto(kasari)\make_tea\render_img.cpp
+	"make_tea.h"
+
+1437644913 source:d:\desktop\finale howto(kasari)\make_tea\test.cpp
+
+1437629593 source:d:\desktop\finale howto(kasari)\make_tea\update.cpp
+	"make_tea.h"
+
+1437575538 source:d:\desktop\finale howto(kasari)\options.cpp
+	"game.h"
+
+1438479080 source:d:\desktop\finale howto(kasari)\render.cpp
+	"game.h"
+
+1438487419 source:d:\desktop\finale howto(kasari)\setup_computer\dragdrop.cpp
+	"Header.h"
+
+1438476894 source:d:\desktop\finale howto(kasari)\setup_computer\load_texture.cpp
+	"Header.h"
+
+1438475994 source:d:\desktop\finale howto(kasari)\setup_computer\render.cpp
+	"Header.h"
+
+1438468208 source:d:\desktop\finale howto(kasari)\setup_computer\update.cpp
+	"Header.h"
+
+1438479079 source:d:\desktop\finale howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1437028608 source:d:\desktop\finale howto(kasari)\tea.cpp
+	"game.h"
+
+1438479030 source:d:\desktop\finale howto(kasari)\update.cpp
+	"game.h"
+

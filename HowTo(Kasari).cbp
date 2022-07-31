@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="HowTo(Kasari)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/HowTo(Kasari)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/HowTo(Kasari)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="HowTo(Kasari).cbp" />
+		<Unit filename="HowTo(Kasari).depend" />
+		<Unit filename="HowTo(Kasari).layout" />
+		<Unit filename="Thumbs.db" />
+		<Unit filename="crimp/colorcode.cpp" />
+		<Unit filename="crimp/crimp.h" />
+		<Unit filename="crimp/events_crimp.cpp" />
+		<Unit filename="crimp/final_crimp.cpp" />
+		<Unit filename="crimp/load_media.cpp" />
+		<Unit filename="crimp/render_media.cpp" />
+		<Unit filename="crimp/update.cpp" />
+		<Unit filename="crimp/wire_sorting.cpp" />
+		<Unit filename="events.cpp" />
+		<Unit filename="free_resources.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="load.cpp" />
+		<Unit filename="main_howto.cpp" />
+		<Unit filename="make_tea/drag_drop.cpp" />
+		<Unit filename="make_tea/image_load.cpp" />
+		<Unit filename="make_tea/make_tea.h" />
+		<Unit filename="make_tea/render_img.cpp" />
+		<Unit filename="make_tea/test.cpp" />
+		<Unit filename="make_tea/update.cpp" />
+		<Unit filename="options.cpp" />
+		<Unit filename="render.cpp" />
+		<Unit filename="setup_computer/Header.h" />
+		<Unit filename="setup_computer/dragdrop.cpp" />
+		<Unit filename="setup_computer/lan.png" />
+		<Unit filename="setup_computer/lan_ko_tar.png" />
+		<Unit filename="setup_computer/load_texture.cpp" />
+		<Unit filename="setup_computer/render.cpp" />
+		<Unit filename="setup_computer/tar-vga.png" />
+		<Unit filename="setup_computer/tar_of_power.png" />
+		<Unit filename="setup_computer/tar_usb.png" />
+		<Unit filename="setup_computer/tat_of_vga.png" />
+		<Unit filename="setup_computer/this_is_lan_ko_tar.png" />
+		<Unit filename="setup_computer/this_is_vga_ko_tar.png" />
+		<Unit filename="setup_computer/update.cpp" />
+		<Unit filename="setup_computer/update_cpu.jpg" />
+		<Unit filename="setup_computer/usb.png" />
+		<Unit filename="setup_computer/vga_ko_tar.png" />
+		<Unit filename="setup_computer/welcome.png" />
+		<Unit filename="sub_menu_events.cpp" />
+		<Unit filename="tea.cpp" />
+		<Unit filename="update.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

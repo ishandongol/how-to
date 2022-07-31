@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1437960855 source:d:\how to\1stsem_project\howto\howto(kasari)\main_howto.cpp
+	"game.h"
+
+1437960855 d:\how to\1stsem_project\howto\howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1437811577 source:d:\how to\1stsem_project\howto\howto(kasari)\load.cpp
+	"game.h"
+
+1436840056 source:d:\how to\1stsem_project\howto\howto(kasari)\render.cpp
+	"game.h"
+
+1437968374 source:d:\how to\1stsem_project\howto\howto(kasari)\events.cpp
+	"game.h"
+
+1437834202 source:d:\how to\1stsem_project\howto\howto(kasari)\update.cpp
+	"game.h"
+
+1437834386 source:d:\how to\1stsem_project\howto\howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1436972567 source:d:\how to\1stsem_project\howto\howto(kasari)\free_resources.cpp
+	"game.h"
+
+1437028606 source:d:\how to\1stsem_project\howto\howto(kasari)\tea.cpp
+	"game.h"
+
+1437027205 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\events.cpp
+	"game.h"
+
+1437028617 \\apricot\how to\1stsem_project\howto\howto(kasari)\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1436972567 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\free_resources.cpp
+	"game.h"
+
+1436981904 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\load.cpp
+	"game.h"
+
+1437029129 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\main_howto.cpp
+	"game.h"
+
+1436840056 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\render.cpp
+	"game.h"
+
+1436875173 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\sub_menu_events.cpp
+	"game.h"
+
+1437028606 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\tea.cpp
+	"game.h"
+
+1436614008 source:\\apricot\how to\1stsem_project\howto\howto(kasari)\update.cpp
+	"game.h"
+
+1437575536 source:d:\how to\1stsem_project\howto\howto(kasari)\options.cpp
+	"game.h"
+

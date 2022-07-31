@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1438462325 source:c:\users\shubham\desktop\new folder\dragdrop.cpp
+	"Header.h"
+
+1438461527 c:\users\shubham\desktop\new folder\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438008654 source:c:\users\shubham\desktop\new folder\render.cpp
+	"Header.h"
+
+1438465304 source:c:\users\shubham\desktop\new folder\update.cpp
+	"Hearder.h"
+
+1438461511 source:c:\users\shubham\desktop\new folder\load_texture.cpp
+	"Header.h"
+
+1438456037 source:c:\users\shubham\desktop\new folder\comp.cpp
+	"Header.h"
+
+1438465404 source:c:\users\shubham\desktop\crimp_fix (1)\new folder\dragdrop.cpp
+	"Header.h"
+
+1438467077 c:\users\shubham\desktop\crimp_fix (1)\new folder\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438464850 source:c:\users\shubham\desktop\crimp_fix (1)\new folder\load_texture.cpp
+	"Header.h"
+
+1438008654 source:c:\users\shubham\desktop\crimp_fix (1)\new folder\render.cpp
+	"Header.h"
+
+1438008061 source:c:\users\shubham\desktop\crimp_fix (1)\new folder\update.cpp
+	"Header.h"
+
+1438466787 source:c:\users\shubham\desktop\crimp_fix (1)\new folder\comp.cpp
+	"Header.h"
+
+1438468196 source:c:\users\shubham\documents\computer assembling\comp.cpp
+	"Header.h"
+
+1438461527 c:\users\shubham\documents\computer assembling\header.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1438468195 source:c:\users\shubham\documents\computer assembling\dragdrop.cpp
+	"Header.h"
+
+1438461511 source:c:\users\shubham\documents\computer assembling\load_texture.cpp
+	"Header.h"
+
+1438008654 source:c:\users\shubham\documents\computer assembling\render.cpp
+	"Header.h"
+
+1438468208 source:c:\users\shubham\documents\computer assembling\update.cpp
+	"Header.h"
+
